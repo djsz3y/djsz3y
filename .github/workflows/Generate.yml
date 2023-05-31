@@ -19,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: LeetCode
-        uses: djsz3y/metrics@latest
+        uses: djsz3y@latest
         with:
           filename: metrics.plugin.leetcode.svg
           token: NOT_NEEDED
