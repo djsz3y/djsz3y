@@ -1,7 +1,7 @@
 # 创建 Snake, see: https://github.com/Platane/snk
 
 # 工作流名称
-name: Generate Snake
+name: Generate
 
 # 工作流触发时机, see: https://docs.github.com/zh/actions/using-workflows/triggering-a-workflow
 # 触发条件修改为: 当 main 分支有 push 操作 || 每天 0 点
@@ -15,7 +15,7 @@ on:
 
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
-  build:
+  github-Snake:
     runs-on: ubuntu-latest
 
     steps:
