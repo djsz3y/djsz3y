@@ -15,6 +15,18 @@ on:
 
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
+  github-leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: LeetCode
+        uses: djsz3y/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
+
   # 生成统计图, see: https://github.com/lowlighter/metrics
   github-metrics:
     runs-on: ubuntu-latest
