@@ -37,5 +37,10 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api?username=djsz3y&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="./assets/metrics.plugin.leetcode.svg" alt=""></img>
+    </td>
+  </tr>
 </table>
 
