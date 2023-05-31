@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React, Redux, React-router, React-Native ...
 - 🤔 I’m looking for help with books, video, myself.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djsz3y&show_icons=true&theme=transparent)
 
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 <picture>
