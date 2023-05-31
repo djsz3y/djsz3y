@@ -21,12 +21,12 @@ jobs:
       - name: LeetCode
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.leetcode.svg
+          filename: assets/metrics.plugin.leetcode.svg
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
-
+          plugin_leetcode_user: djsz3y
 
   # 生成统计图, see: https://github.com/lowlighter/metrics
   github-metrics:
