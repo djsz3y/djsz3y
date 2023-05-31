@@ -15,7 +15,7 @@ on:
 
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
-  github-leetcode:
+  github-Leetcode:
     runs-on: ubuntu-latest
     steps:
       - name: LeetCode
