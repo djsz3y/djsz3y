@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   </tr>
   <!-- 知乎 -->
   <tr>
-    <td align="left" colspan="2">
+    <td align="left" colspan="2" style="border-left:none;border-right:none;">
 <!-- multi-platform-posts start -->
   <table align="center">
       <tr>
