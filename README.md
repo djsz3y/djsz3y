@@ -48,13 +48,13 @@ Here are some ideas to get you started:
 <!-- multi-platform-posts start -->
   <table align="center">
       <tr>
-        <td align="center" valign="top">
+        <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/zhihu.ico' alt='zhihu'/></div>
 <ul>
 <li align='left'>[2天前 👍：0  ]
       <a href="http://zhuanlan.zhihu.com/p/633311891" target="_blank">二分搜索算法总结</a>
       </li>
-<li align='left'>[3天前 👍：0  ]
+<li align='left'>[4天前 👍：0  ]
       <a href="http://zhuanlan.zhihu.com/p/632914631" target="_blank">算法学习笔记2</a>
       </li>
 <li align='left'>[7天前 👍：0  ]
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
         </td>
       </tr>
     </table>
-<!-- multi-platform-posts end -->
+    <!-- multi-platform-posts end -->
     </td>
   </tr>
   <!-- 掘金 -->
