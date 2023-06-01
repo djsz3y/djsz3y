@@ -42,8 +42,8 @@ Here are some ideas to get you started:
       <img src="./assets/metrics.plugin.leetcode.svg" alt=""></img>
     </td>
   </tr>
-</table>
-
+  <tr>
+    <td align="center" colspan="2">
 <!-- 掘金 -->
 <!-- posts start -->
 <ul>
@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 
 </ul>
 <!-- posts end -->
+    </td>
+  </tr>
+</table>
 
 <!-- 知乎 -->
 <!-- multi-platform-posts start -->
