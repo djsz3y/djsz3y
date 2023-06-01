@@ -45,10 +45,10 @@ Here are some ideas to get you started:
   <!-- 知乎 -->
   <tr>
     <td align="left" colspan="2">
-      <!-- multi-platform-posts start -->
+<!-- multi-platform-posts start -->
   <table align="center">
       <tr>
-        <td align="center" width="800px" valign="top">
+        <td align="center" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/zhihu.ico' alt='zhihu'/></div>
 <ul>
 <li align='left'>[2天前 👍：0  ]
@@ -82,13 +82,13 @@ Here are some ideas to get you started:
         </td>
       </tr>
     </table>
-    <!-- multi-platform-posts end -->
+<!-- multi-platform-posts end -->
     </td>
   </tr>
   <!-- 掘金 -->
   <tr>
     <td align="left" colspan="2">
-      <!-- posts start -->
+<!-- posts start -->
 <ul>
 <ul>
 <li>[28天前] <a href="https://juejin.cn/post/7228967511408476220">vue-router 学习笔记</a></li>
