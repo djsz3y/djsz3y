@@ -69,6 +69,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
+          plugin_leetcode_user: 'djsz3y'
           plugin_leetcode_sections: solved, skills, recent
 
   # 生成统计图, see: https://github.com/lowlighter/metrics
