@@ -85,7 +85,6 @@ Here are some ideas to get you started:
     <!-- multi-platform-posts end -->
 
 <!-- 掘金 -->
-<div style="width: 800px;">
 <!-- posts start -->
 <ul>
 <ul>
@@ -103,4 +102,3 @@ Here are some ideas to get you started:
 
 </ul>
 <!-- posts end -->
-</div>
