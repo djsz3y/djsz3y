@@ -51,19 +51,22 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/zhihu.ico' alt='zhihu'/></div>
 <ul>
-<li align='left'>[5天前 👍：0  ]
+<li align='left'>[7小时前 👍：0  ]
+      <a href="http://zhuanlan.zhihu.com/p/637442450" target="_blank">八、TypeScript 详解（上）</a>
+      </li>
+<li align='left'>[6天前 👍：0  ]
       <a href="http://zhuanlan.zhihu.com/p/636040965" target="_blank">算法学习笔记3（二分和回溯）</a>
       </li>
-<li align='left'>[15天前 👍：1  ]
+<li align='left'>[16天前 👍：1  ]
       <a href="http://zhuanlan.zhihu.com/p/633311891" target="_blank">二分搜索算法总结</a>
       </li>
-<li align='left'>[17天前 👍：0  ]
+<li align='left'>[18天前 👍：0  ]
       <a href="http://zhuanlan.zhihu.com/p/632914631" target="_blank">算法学习笔记2</a>
       </li>
-<li align='left'>[21天前 👍：0  ]
+<li align='left'>[22天前 👍：0  ]
       <a href="http://zhuanlan.zhihu.com/p/631995708" target="_blank">redux & mobx</a>
       </li>
-<li align='left'>[26天前 👍：0  ]
+<li align='left'>[27天前 👍：0  ]
       <a href="http://zhuanlan.zhihu.com/p/630596121" target="_blank">算法学习笔记1</a>
       </li>
 <li align='left'>[1个月前 👍：0  ]
@@ -77,9 +80,6 @@ Here are some ideas to get you started:
       </li>
 <li align='left'>[1个月前 👍：0  ]
       <a href="http://zhuanlan.zhihu.com/p/627480705" target="_blank">一、JavaScript 高级用法（2）</a>
-      </li>
-<li align='left'>[1个月前 👍：0  ]
-      <a href="http://zhuanlan.zhihu.com/p/627469906" target="_blank">一、JavaScript 高级用法（1）</a>
       </li>
 </ul>
         </td>
