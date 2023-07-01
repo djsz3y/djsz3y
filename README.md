@@ -51,10 +51,10 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/zhihu.ico' alt='zhihu'/></div>
 <ul>
-<li align='left'>[14天前 👍：0  ]
+<li align='left'>[15天前 👍：0  ]
       <a href="http://zhuanlan.zhihu.com/p/637442450" target="_blank">八、TypeScript 详解（上）</a>
       </li>
-<li align='left'>[20天前 👍：0  ]
+<li align='left'>[21天前 👍：0  ]
       <a href="http://zhuanlan.zhihu.com/p/636040965" target="_blank">算法学习笔记3（二分和回溯）</a>
       </li>
 <li align='left'>[1个月前 👍：1  ]
