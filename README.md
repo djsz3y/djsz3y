@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 <li>[2月前] <a href="https://juejin.cn/post/7223653429356822586">三、了解前端模块化系列（2）——模块化规范-CommonJS</a></li>
 <li>[2月前] <a href="https://juejin.cn/post/7223407070962827323">三、了解前端模块化系列（1）——模块化的理解</a></li>
 <li>[2月前] <a href="https://juejin.cn/post/7220434734965784636">五、垃圾回收&内存泄漏</a></li>
-<li>[2月前] <a href="https://juejin.cn/post/7219283617973469241">二、前端异步处理规范及应用</a></li>
+<li>[3月前] <a href="https://juejin.cn/post/7219283617973469241">二、前端异步处理规范及应用</a></li>
 <li>[3月前] <a href="https://juejin.cn/post/7218179400633614395">一、JavaScript 高级用法（2）</a></li>
 <li>[3月前] <a href="https://juejin.cn/post/7216772871019200571">通过 vscode 刷题插件 leetcode 力扣中文版会员无法打开题目的问题，思考如何寻找解决方案</a></li>
 </ul>
