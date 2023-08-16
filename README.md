@@ -91,6 +91,7 @@ Here are some ideas to get you started:
 <!-- posts start -->
 <ul>
 <ul>
+<li>[undefined] <a href="https://juejin.cn/post/7267477662360911887">我对于 Composition API 的理解</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7257441765975785529">webpack5 npm run build 遇到 4 个错误 ERROR</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7228967511408476220">十七、Vue Router 前端路由及异步组件</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7224873507507109944">三、了解前端模块化系列（5）——模块化规范-UMD & 总结（CommonJS AMD CMD ES6 UMD）</a></li>
@@ -100,7 +101,6 @@ Here are some ideas to get you started:
 <li>[undefined] <a href="https://juejin.cn/post/7223407070962827323">三、了解前端模块化系列（1）——模块化的理解</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7220434734965784636">五、垃圾回收&内存泄漏</a></li>
 <li>[undefined] <a href="https://juejin.cn/post/7219283617973469241">二、前端异步处理规范及应用</a></li>
-<li>[undefined] <a href="https://juejin.cn/post/7218179400633614395">一、JavaScript 高级用法（2）</a></li>
 </ul>
 
 </ul>
