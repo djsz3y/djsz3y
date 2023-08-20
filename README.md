@@ -51,7 +51,7 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/zhihu.ico' alt='zhihu'/></div>
 <ul>
-<li align='left'>[27天前 👍：0  ]
+<li align='left'>[28天前 👍：0  ]
       <a href="http://zhuanlan.zhihu.com/p/645226608" target="_blank">二十八、react 实战- 玩转 react 全家桶（第二讲 react 环境安装）</a>
       </li>
 <li align='left'>[1个月前 👍：0  ]
