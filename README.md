@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <li align='left'>[2个月前 👍：0  ]
       <a href="http://zhuanlan.zhihu.com/p/632914631" target="_blank">算法学习笔记2</a>
       </li>
-<li align='left'>[2个月前 👍：0  ]
+<li align='left'>[3个月前 👍：0  ]
       <a href="http://zhuanlan.zhihu.com/p/631995708" target="_blank">二十一、redux & mobx</a>
       </li>
 <li align='left'>[3个月前 👍：0  ]
