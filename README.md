@@ -51,10 +51,10 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/zhihu.ico' alt='zhihu'/></div>
 <ul>
-<li align='left'>[6天前 👍：0  ]
+<li align='left'>[7天前 👍：0  ]
       <a href="http://zhuanlan.zhihu.com/p/652366492" target="_blank">设计模式解析与实战（下）</a>
       </li>
-<li align='left'>[6天前 👍：1  ]
+<li align='left'>[7天前 👍：1  ]
       <a href="http://zhuanlan.zhihu.com/p/652345197" target="_blank">设计模式解析与实战（上）</a>
       </li>
 <li align='left'>[1个月前 👍：0  ]
