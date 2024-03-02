@@ -51,7 +51,7 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/zhihu.ico' alt='zhihu'/></div>
 <ul>
-<li align='left'>[28天前 👍：0  ]
+<li align='left'>[29天前 👍：0  ]
       <a href="http://zhuanlan.zhihu.com/p/680996942" target="_blank">XSS挑战赛</a>
       </li>
 <li align='left'>[4个月前 👍：0  ]
