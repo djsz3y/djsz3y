@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 <li>[8月前] <a href="https://juejin.cn/post/7257441765975785529">webpack5 npm run build 遇到 4 个错误 ERROR</a></li>
 <li>[10月前] <a href="https://juejin.cn/post/7228967511408476220">十七、Vue Router 前端路由及异步组件</a></li>
 <li>[10月前] <a href="https://juejin.cn/post/7224873507507109944">三、了解前端模块化系列（5）——模块化规范-UMD & 总结（CommonJS AMD CMD ES6 UMD）</a></li>
-<li>[10月前] <a href="https://juejin.cn/post/7224518630661570618">三、了解前端模块化系列（4）——模块化规范-CMD & ES6</a></li>
+<li>[11月前] <a href="https://juejin.cn/post/7224518630661570618">三、了解前端模块化系列（4）——模块化规范-CMD & ES6</a></li>
 <li>[11月前] <a href="https://juejin.cn/post/7223973532353724472">三、了解前端模块化系列（3）——模块化规范-AMD</a></li>
 <li>[11月前] <a href="https://juejin.cn/post/7223653429356822586">三、了解前端模块化系列（2）——模块化规范-CommonJS</a></li>
 <li>[11月前] <a href="https://juejin.cn/post/7223407070962827323">三、了解前端模块化系列（1）——模块化的理解</a></li>
