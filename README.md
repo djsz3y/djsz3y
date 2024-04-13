@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning React, Redux, React-router, React-Native ...
-- 🤔 I’m looking for help with books, video, myself.
+- 🤔 I’m looking for help with books, video.
 
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 <picture>
