@@ -9,8 +9,6 @@ on:
   push:
     branches: 
       - master
-      - feature/zhihu
-      - feature/segmentfault
   
   schedule:
     - cron: '30 22 * * *'
@@ -26,12 +24,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
-
       - name: Append Juejin Posts List 🔧
       # 使用 KunLunXu-CC/juejin-posts-action 生成文章列表, 
       # see: https://github.com/KunLunXu-CC/juejin-posts-action
-      #  uses: KunLunXu-CC/juejin-posts-action@main
-        uses: baozouai/multi-platform-posts-action@main
+        uses: KunLunXu-CC/juejin-posts-action@main
+      #  uses: baozouai/multi-platform-posts-action@main
         with: 
           user_id: "1042768423037150" # 上面拿到不同平台的id后，填入这里
           platform: juejin # 这里填写不同的平台，有juejin, zhihu, segmentfault
