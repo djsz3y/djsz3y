@@ -24,9 +24,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         
-      - name: Append Juejin Posts List 🔧
       # 使用 KunLunXu-CC/juejin-posts-action 生成文章列表, 
       # see: https://github.com/KunLunXu-CC/juejin-posts-action
+      - name: Append Juejin Posts List 🔧
         uses: KunLunXu-CC/juejin-posts-action@main
       #  uses: baozouai/multi-platform-posts-action@main
         with: 
