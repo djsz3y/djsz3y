@@ -88,6 +88,6 @@ Here are some ideas to get you started:
     </table>
     <!-- multi-platform-posts end -->
 
-<!-- multi-platform-posts start -->
+<!-- posts start -->
 
-<!-- multi-platform-posts end -->
+<!-- posts end -->
