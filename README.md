@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <li align='left'>[1年前 👍：1  ⭐：0]
       <a href="https://juejin.cn/post/7223653429356822586" target="_blank">三、了解前端模块化系列（2）——模块化规范-CommonJS</a>
       </li>
-<li align='left'>[1年前 👍：1  ⭐：0]
+<li align='left'>[2年前 👍：1  ⭐：0]
       <a href="https://juejin.cn/post/7223407070962827323" target="_blank">三、了解前端模块化系列（1）——模块化的理解</a>
       </li>
 <li align='left'>[2年前 👍：1  ⭐：1]
